@@ -1,5 +1,4 @@
 import React from 'react'
-import webdev from '../images/webdev.avif'
 import jcam from '../images/jcam.png'
 import './header.css'
 const Header = () => {

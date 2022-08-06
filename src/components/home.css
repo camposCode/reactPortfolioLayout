@@ -1,0 +1,28 @@
+.home__banner{
+    background-image: url('../images/webdev.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    color: #dddddd;
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    font-size: 35px;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.7),
+                -2px -2px 2px rgba(00, 00, 00, 0.3);
+    word-spacing: 3px;
+}
+
+.home__banner h1{
+    margin-left: 15px;
+}
+
+.home__subBanner{
+    background-color: #373737;
+    color: #dddddd;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    letter-spacing: 3px;
+}
